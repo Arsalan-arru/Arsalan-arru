@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arsalan-arru
 - 👀 I’m interested in devoloping software
 - 🌱 I’m currently learning full stack in java
-- 💞️ I’m looking to collaborate on NA
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me vishnuroshan01@gmail.com
 
 <!---
